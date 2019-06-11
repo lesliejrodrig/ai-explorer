@@ -1,6 +1,4 @@
-# Algorithm Explorer
-
-[![Build Status](https://travis-ci.com/lrodrig-ibm/ai-explorer.svg?branch=master)](https://travis-ci.com/lrodrig-ibm/ai-explorer)
+# AI Explorer
 
 This framework for business users or aspiring data scientists explores machine learning techniques top down. It is designed to provide a clear overview on data science techniques and introduce the reader to a foundation of machine learning algorithms.
 
