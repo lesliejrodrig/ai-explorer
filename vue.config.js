@@ -2,7 +2,7 @@
 const fs = require('fs');
 
 module.exports = {
-  baseUrl: '/algorithm-explorer/',
+  baseUrl: '/ai-explorer/',
   css: {
     loaderOptions: {
       sass: {
