@@ -1,6 +1,6 @@
 # Algorithm Explorer
 
-[![Build Status](https://travis-ci.com/samrose3/algorithm-explorer.svg?branch=master)](https://travis-ci.com/samrose3/algorithm-explorer)
+[![Build Status](https://travis-ci.com/lrodrig-ibm/ai-explorer.svg?branch=master)](https://travis-ci.com/lrodrig-ibm/ai-explorer)
 
 This framework for business users or aspiring data scientists explores machine learning techniques top down. It is designed to provide a clear overview on data science techniques and introduce the reader to a foundation of machine learning algorithms.
 
@@ -8,7 +8,7 @@ The user begins by selecting the type of problem they are trying to solve. They 
 
 The framework also includes examples, pros and cons for the different algorithms.
 
-View the [Algorithm Explorer](https://samrose3.github.io/algorithm-explorer) 🔍
+View the [Algorithm Explorer](https://lrodrig-ibm.github.io/ai-explorer) 🔍
 
 ## Development
 

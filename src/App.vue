@@ -11,7 +11,7 @@
         class="intro"
         tabindex="-1"
         @keyup.stop.prevent>
-        <h1 class="title is-spaced">Algorithm Explorer</h1>
+        <h1 class="title is-spaced">AI Explorer</h1>
         <h2 class="subtitle">This framework explores machine learning techniques top down.</h2>
         <div class="content">
           <p>
